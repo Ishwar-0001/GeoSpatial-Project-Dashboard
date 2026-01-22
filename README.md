@@ -35,3 +35,4 @@ A React-based dashboard to visualize geo-spatial and tabular project data.
 https://github.com/Ishwar-0001/GeoSpatial-Project-Dashboard.git
 
 ## Link 
+https://geo-spatial-project-dashboard.vercel.app/
