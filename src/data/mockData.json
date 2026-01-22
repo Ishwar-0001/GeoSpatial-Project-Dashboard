@@ -1,0 +1,16 @@
+[
+  {
+    "projectName": "Solar Plant Alpha",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "status": "Active",
+    "lastUpdated": "2025-01-12"
+  },
+  {
+    "projectName": "Wind Farm Beta",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "status": "Inactive",
+    "lastUpdated": "2025-01-10"
+  }
+]
